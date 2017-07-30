@@ -1,1 +1,2 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.
+作者题记：在和平时期，我从不认为“爱国主义”是个崇高的字眼。聚集在爱国主义大旗下的，不是卑鄙的政客，就是颠三倒四的疯子。
+                               ------刘晓波
