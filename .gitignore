@@ -8,6 +8,8 @@
 node_modules
 
 .DS_Store
+.Ulysses-Group.plist
+
 
 # Book build output
 _book
